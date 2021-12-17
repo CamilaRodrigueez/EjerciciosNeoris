@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromediodeGgrupos", "Promed
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgenciadeViajes", "AgenciadeViajes\AgenciadeViajes.csproj", "{F208BE24-C737-4A0B-A140-FA1E865854BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaEntreNumeros", "SumaEntreNumeros\SumaEntreNumeros.csproj", "{A6C0C620-9FE0-46A6-B3DA-3DC3DF0A124B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumaEntreNumeros", "SumaEntreNumeros\SumaEntreNumeros.csproj", "{A6C0C620-9FE0-46A6-B3DA-3DC3DF0A124B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaDeDigitos", "SumaDeDigitos\SumaDeDigitos.csproj", "{DC44EF65-6F91-4B73-8D5E-CFABE0AA11B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumaDeDigitos", "SumaDeDigitos\SumaDeDigitos.csproj", "{DC44EF65-6F91-4B73-8D5E-CFABE0AA11B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlzasDelDolar", "AlzasDelDolar\AlzasDelDolar.csproj", "{DB7DC368-01A4-4A43-926C-B2B4AE96600B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlzasDelDolar", "AlzasDelDolar\AlzasDelDolar.csproj", "{DB7DC368-01A4-4A43-926C-B2B4AE96600B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
