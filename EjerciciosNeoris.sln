@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barman", "Barman\Barman.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayorQue", "MayorQue\MayorQue.csproj", "{1F67AA66-3AF4-488F-BAC1-37C457659182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayorPromedio", "MayorPromedio\MayorPromedio.csproj", "{B445C20E-2D4E-4914-A64C-1C959673D3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1F67AA66-3AF4-488F-BAC1-37C457659182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F67AA66-3AF4-488F-BAC1-37C457659182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F67AA66-3AF4-488F-BAC1-37C457659182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B445C20E-2D4E-4914-A64C-1C959673D3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B445C20E-2D4E-4914-A64C-1C959673D3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B445C20E-2D4E-4914-A64C-1C959673D3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B445C20E-2D4E-4914-A64C-1C959673D3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
